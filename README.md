@@ -4,7 +4,7 @@ Hi! I am Jaehun from South Korea.
 Recently, I've been interested in DevOps.  
 I hope that I'll be a conscientious and skillful developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nojahoon&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nojahoon&theme=blueberry&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Things I've used more than once
 
