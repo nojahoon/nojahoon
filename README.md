@@ -79,8 +79,8 @@ Naver open API관리, 프로젝트 흐름 설계 및 notion 문서 관리, barco
 - 내용: google TTS API를 통해 text to speech 기능을 사용하였고 Unity Store의 Asset을 구매해 애니메이션 동물이 음성으로 반응하도록 챗봇제작
 - 기여한부분:
 
-Unity reference 공유, Unity Teams 적용, 회의주도, syn bot studio에 등록하는 특정 response
-에 대한 request도출하는 알고리즘 개발, Error Issue 같이 검색하여 해결하며 진행    
+Unity reference 공유, Unity Teams 적용, 회의주도, syn bot studio에 등록하는 특정 request
+에 대한 response도출하는 알고리즘 개발, Error Issue 같이 검색하여 해결하며 진행    
 
 ### 문구관리 DB프로젝트
 
