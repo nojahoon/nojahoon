@@ -84,7 +84,7 @@ Unity reference 공유, Unity Teams 적용, 회의주도, syn bot studio에 등�
 
 ### 문구관리 DB프로젝트
 
-- 개발환경: apache tomcat, jsp
+- 개발환경: apache tomcat, JSP, MYSQL, Eclipse
 - github: https://github.com/nojahoon/2020_Database_project
 - 내용: DB수업 프로젝트로 어떠한 프레임워크의 사용도 절대적으로 금지된채로 low level에 가깝게 문구관리 DB 웹구현하기
 - 기본 구현조건 : 회원가입/출처-인물-문구 등록/수정/검색/삭제 구현
