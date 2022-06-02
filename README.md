@@ -63,7 +63,7 @@ I hope that I'll be a conscientious and skillful developer.
 ### Naver Open API를 활용한 바코드 인식 최저가 상품검색 안드로이드 App 제작
 
 - 개발 언어/라이브러리 : zxing lib(바코드인식) , android java
-- github : https://github.com/nojahoon/barcode-app-workspace
+- github : https://github.com/2021-SW-6/barcode-app-workspace
 - notion : [https://fragrant-magic-b1b.notion.site/f339ccfd7bbb4c8eb1d94a67f018e784?v=0d0c81f13fbb4bac8a2a71bec06d1131](https://www.notion.so/f339ccfd7bbb4c8eb1d94a67f018e784)
 - 내용: (소프트웨어공학 수업에서 개발명세서 작성 후 랜덤으로 섞고 받은 명세서를 구현해보기)
 
