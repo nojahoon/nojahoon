@@ -50,7 +50,8 @@ I hope that I'll be a conscientious and skillful developer.
 
 
 ## Education
-- fastcampus devops강좌 66일 1일1블로깅 Challenge 진행중
+- fastcampus devops강좌 66일 1일1블로깅 Challenge : 2022/4/18~2022/6/22 - 성공
+- 커넥트재단 부스트코스 CS50(2019) - '모두를 위한 컴퓨터과학' 강좌 수료
 - Cloud/App 개발 Study 동문멘토링(AWS):  2022/2~ 진행중
 - 인재개발원 동문멘토링(Microsoft) : 2021/12/27 ~ 2022/1/21(2회)
 - SW중심사업단의 방학 Bootcamp에 다수 참여(C:4주,python:3주,Database:3주,React:1주,SwiftUI:1주)
