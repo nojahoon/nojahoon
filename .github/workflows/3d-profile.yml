@@ -3,7 +3,8 @@ name: full-year-calendar
 on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 1 * * *"
-    
+  workflow_dispatch:
+  
 jobs:
   build:
     runs-on: ubuntu-latest
