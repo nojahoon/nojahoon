@@ -29,8 +29,8 @@ I hope that I'll be a conscientious and skillful developer.
 </p>
 
 
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
 
 ## Skill
 
