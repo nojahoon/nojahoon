@@ -6,6 +6,7 @@ I hope that I'll be a conscientious and skillful developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nojahoon&theme=algolia&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ### Things I've used more than once
 
 <p>
@@ -26,6 +27,10 @@ I hope that I'll be a conscientious and skillful developer.
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
 </p>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 ## Skill
 
