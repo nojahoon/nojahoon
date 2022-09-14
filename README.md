@@ -124,12 +124,12 @@ Unity reference 공유, Unity Teams 적용, 회의주도, syn bot studio에 등�
   
 
 ### Study Plan
-
 - Devops 공부하기 (Docker/K8s, Terraform,monitoring, MSA…)
 - Java/Spring 공부하기 : 기회되면 Effective Java 읽어보기
 - 객체지향 코드, 리팩토링 서적 읽기
 - 대외활동 알아보기
 
+=> 일부 변경된 사항있음. 7~9월 현직자분들과 node 사이드프로젝트 참여, 추석부터 SW활동병행
 
 
 
