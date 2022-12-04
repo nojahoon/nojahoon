@@ -18,6 +18,7 @@ I hope that I'll be a conscientious and skillful developer.
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="Miro" src="https://img.shields.io/badge/-Miro-050038?style=flat-square&logo=Miro&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
